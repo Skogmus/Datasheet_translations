@@ -16,3 +16,11 @@ Note:
 4. Any contribution with proposed changes or corrections of errors will be gratefully received. Proofreading such a large document is, in the end, a lot of work.
 
 (...)
+
+Finally: The filename LGT8FX8P_databook_v1.0.5-Eng_GS_v1.0.0.odt only reflect the current state affairs:
+a) This translation is based on the original Chinese v1.0.5 of this manual/databook. 
+b) What follows is:
+  "-ENG" == "English"
+  "_GS" == my initials to keep it from all other versions
+  "_v1.0.0" == version 1.0.0 of this translated version of the manual/databook
+  
