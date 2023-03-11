@@ -1,1 +1,4 @@
-
+KU611, KU612 NPN Tezla Transistor - datasheet (CS).odt                : The Czech transcript of the original scan
+KU611, KU612 NPN Tezla Transistor - datasheet (CS) with original.pdf  : Pdf of the Czech transcript of the original scan
+KU611, KU612 NPN Tezla Transistor - datasheet (EN).odt                : The English translation of the transcript.
+KU611, KU612 NPN Tezla Transistor - datasheet (EN) with original.pdf  : Pdf of the English translation of the transcript.
