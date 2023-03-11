@@ -1,1 +1,5 @@
 
+KU607, KU608 datasheet (CS).odt                                               : The Czech transcript of the original scan
+KU607, KU608 70 W Silicon NPN switching power transistor - datasheet (CS).pdf : Pdf of the Czech transcript of the original scan
+KU607, KU608 datasheet (EN).odt                                               : The english translation of the transcript.
+KU607, KU608 70 W Silicon NPN switching power transistor - datasheet (EN).pdf : Pdf of the english translation of the transcript.
