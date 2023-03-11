@@ -1,1 +1,5 @@
 
+KD501, KD502, KD503 Tesla power transistor - datasheet (CS).odt               : The Czech transcript from the original scan.
+KD501, KD502, KD503 Tesla power transistor - datasheet (CS) with original.pdf : Pdf of the Czech transcript from the original scan.
+KD501, KD502, KD503 Tesla power transistor - datasheet (EN).odt               : The English translation of the transcript.
+KD501, KD502, KD503 Tesla power transistor - datasheet (EN) with original.pdf : Pdf of the English translation of the transcript.
